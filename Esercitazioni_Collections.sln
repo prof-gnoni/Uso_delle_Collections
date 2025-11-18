@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36705.20 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uso_dei_Dictionary", "Uso_dei_Dictionary\Uso_dei_Dictionary.csproj", "{CFF78790-4ECE-4C05-9707-720BC4A0EA64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uso_delle_KeyedCollection", "Uso_delle_KeyedCollection\Uso_delle_KeyedCollection.csproj", "{BE64F22E-8E8C-427A-889C-A5258FABBE1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CFF78790-4ECE-4C05-9707-720BC4A0EA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF78790-4ECE-4C05-9707-720BC4A0EA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF78790-4ECE-4C05-9707-720BC4A0EA64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE64F22E-8E8C-427A-889C-A5258FABBE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE64F22E-8E8C-427A-889C-A5258FABBE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE64F22E-8E8C-427A-889C-A5258FABBE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE64F22E-8E8C-427A-889C-A5258FABBE1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
