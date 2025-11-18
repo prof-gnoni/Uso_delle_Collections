@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uso_dei_Dictionary", "Uso_dei_Dictionary\Uso_dei_Dictionary.csproj", "{CFF78790-4ECE-4C05-9707-720BC4A0EA64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF78790-4ECE-4C05-9707-720BC4A0EA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF78790-4ECE-4C05-9707-720BC4A0EA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF78790-4ECE-4C05-9707-720BC4A0EA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF78790-4ECE-4C05-9707-720BC4A0EA64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA67B48-0E68-4BE2-9C04-1F5C3E1A2A59}
+	EndGlobalSection
+EndGlobal
