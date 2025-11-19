@@ -2,7 +2,7 @@
 using System;
 // Non serve System.Collections.Generic qui, perché usiamo la nostra classe Anagrafica
 
-namespace Esercitazione_KeyedCollection
+namespace Uso_delle_KeyedCollection
 {
     class Program
     {

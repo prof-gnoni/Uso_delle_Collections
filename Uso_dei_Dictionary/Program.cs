@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic; // FONDAMENTALE: Contiene il Dictionary
 
-namespace Esercitazione_KeyedCollection
+namespace Uso_dei_Dictionary
 {
     class Program
     {

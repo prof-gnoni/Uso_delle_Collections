@@ -2,7 +2,7 @@
 // Aggiungi questo using per l'attributo [JsonConstructor]
 using System.Text.Json.Serialization;
 
-namespace Esercitazione_KeyedCollection
+namespace Uso_dei_Dictionary
 {
     public class Persona
     {
