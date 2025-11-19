@@ -1,7 +1,6 @@
-﻿using Esercitazione_KeyedCollection;
-using System.Collections.ObjectModel; // FONDAMENTALE: Contiene KeyedCollection
+﻿using System.Collections.ObjectModel; // FONDAMENTALE: Contiene KeyedCollection
 
-namespace Esercitazione_KeyedCollection
+namespace Uso_delle_KeyedCollection
 {
     // Definiamo la nostra collezione "Anagrafica".
     // <Guid, Persona> significa: la chiave estratta sarà un Guid, l'oggetto è Persona.
