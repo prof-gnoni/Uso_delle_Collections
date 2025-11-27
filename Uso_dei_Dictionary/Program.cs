@@ -56,7 +56,8 @@ namespace Uso_dei_Dictionary
             {
                 // kvp.Key   --> è il Guid
                 // kvp.Value --> è l'oggetto Persona
-                Console.WriteLine($"KEY: {kvp.Key.ToString().Substring(0, 8)}... -> VAL: {kvp.Value.Cognome} {kvp.Value.Nome}");
+                
+                Console.WriteLine($"KEY: {kvp.Key.ToString().Substring(0, 8)}... -> VAL: {kvp.Value}");
             }
 
             Console.WriteLine("\nPremi Invio per chiudere.");

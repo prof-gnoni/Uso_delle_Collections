@@ -2,9 +2,9 @@
 
 namespace Uso_delle_KeyedCollection
 {
-    // Definiamo la nostra collezione "Anagrafica".
+    // Definiamo la nostra collezione "PersonaCollection".
     // <Guid, Persona> significa: la chiave estratta sarà un Guid, l'oggetto è Persona.
-    public class Anagrafica : KeyedCollection<Guid, Persona>
+    public class PersonaCollection : KeyedCollection<Guid, Persona>
     {
         // Questo è il metodo magico.
         // Quando aggiungiamo una persona, la collezione esegue questo metodo
